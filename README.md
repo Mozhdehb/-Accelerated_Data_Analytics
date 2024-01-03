@@ -1,1 +1,1 @@
-# -Accelerated_Data_Analytics
+# Accelerated_Data_Analytics
